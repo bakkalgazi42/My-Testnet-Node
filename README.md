@@ -1,4 +1,4 @@
-<center> ## Projects I've Participated In <center>
+<center> Projects I've Participated In <center>
   
 # Network Projects
   
