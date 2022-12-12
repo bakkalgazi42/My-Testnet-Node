@@ -2,4 +2,6 @@
   
 # Ağ Projeleri
   
-1.Ziesha Network [Twitter](https://twitter.com/ZieshaNetwork)
+- Ziesha Network [Twitter](https://twitter.com/ZieshaNetwork)
+- Exorde Labs [Twitter](https://twitter.com/ExordeLabs)
+- Dusk Network  [Twitter](https://twitter.com/DuskFoundation)
