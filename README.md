@@ -1,6 +1,6 @@
-<center> ## Katıldığım Projeler <center>
+<center> ## Projects I've Participated In <center>
   
-# Ağ Projeleri
+# Network Projects
   
 - Ziesha Network [Twitter](https://twitter.com/ZieshaNetwork)
 - Exorde Labs [Twitter](https://twitter.com/ExordeLabs)
