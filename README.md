@@ -1,4 +1,4 @@
-<center> Projects I've Participated In <center>
+<h1 align=" center " > Projects I've Participated In </h1>
   
 # Network Projects
   
