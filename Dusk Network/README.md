@@ -1,4 +1,4 @@
-# dusk-network
+# Dusk-Network
 
 ![image](https://user-images.githubusercontent.com/101149671/202469219-95f8ba9c-1bc3-4972-8a26-3ace0dd74b5f.png)
 
