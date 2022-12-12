@@ -98,6 +98,7 @@ bazuka node start --discord-handle "YOUR DISCORD HANDLE"
 - screen -S bazuka (yeni bir screen açar)
 - screen -d -r screenadı(attached olunan screen içine girmeyi sağlar)
 - screen -XS screenadı quit (oluşturulan screeni siler)
+- pkill screen(tüm screenleri silme komutu)
 - bazuka node status (çalıştırdığınız node'un güncelmi değilmi bakabilirsiniz)
 - bazuka wallet info (cüzdan bilgilerinize erişirsiniz)
 
