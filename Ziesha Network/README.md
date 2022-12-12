@@ -91,3 +91,14 @@ bazuka node start --discord-handle "YOUR DISCORD HANDLE"
 ## Solo miner rehberi: [Link](https://github.com/ruesandora/Ziesha-Network/blob/main/solo-miner.md)
 ## Miner pool rehber: [Link](https://github.com/ruesandora/Ziesha-Network/blob/main/mining-pool.md)
 
+## Gerekli Komutlar
+
+- screen -ls  (oluşturulan screenleri listeler)
+- screen -r screenadı (oluşturulan screene girmeyi sağlar)
+- screen -S bazuka (yeni bir screen açar)
+- screen -d -r screenadı(attached olunan screen içine girmeyi sağlar)
+- screen -XS screenadı quit (oluşturulan screeni siler)
+- bazuka node status (çalıştırdığınız node'un güncelmi değilmi bakabilirsiniz)
+- bazuka wallet info (cüzdan bilgilerinize erişirsiniz)
+
+
